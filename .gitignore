@@ -9,6 +9,11 @@ __pycache__/
 #Data
 Data/
 Spoiler-Blocker-Extension - Shortcut.lnk
+
+#Env
+venv/
+
+
 # Distribution / packaging
 .Python
 build/
