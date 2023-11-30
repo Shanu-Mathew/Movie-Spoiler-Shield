@@ -1,5 +1,7 @@
 numpy
 pandas
+Flask
 tensorflow
-tensorflow_hub
-tensorflow_text
+tensorflow-text==2.13.0
+transformers
+tensorflow-hub==0.14.0
