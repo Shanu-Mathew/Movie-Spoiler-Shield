@@ -1,2 +1,2 @@
 # Spoiler-Blocker-Extension
-Minor Project
+A chrome Extension that blocks spoiler reviews from site using the powerful, pre-trained model BERT.
